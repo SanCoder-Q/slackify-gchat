@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "commonjs",
+    "outDir": "./dist/compile/",
+    "strict": true,
+    "baseUrl": "./",
+    "lib": ["es6", "dom"]
+  },
+  "include": ["./src/**/*"]
+}
