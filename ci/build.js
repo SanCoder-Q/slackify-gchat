@@ -25,7 +25,7 @@ function addManifest() {
 function pack() {
   console.log('Zipping ...');
   fs.existsSync(buildPath) || fs.mkdirSync(buildPath);
-  var output = fs.createWriteStream(`${buildPath}/tab-switcher.zip`);
+  var output = fs.createWriteStream(`${buildPath}/slackify-gchat.zip`);
   var archive = archiver('zip');
   output.on('close', function() {
     console.log(`Artifact: build/slackify-gchat.zip(${archive.pointer()} bytes)`);

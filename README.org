@@ -8,16 +8,14 @@
 #+Email: sancoder.q@gmail.com
 
 [[https://travis-ci.org/SanCoder-Q/slackify-gchat][https://travis-ci.org/SanCoder-Q/slackify-gchat.svg?branch=master]]
-[[https://chrome.google.com/webstore/detail/simple-tab-switcher/jmihjpkeaeknejefhonkbgldenaplegj][https://img.shields.io/chrome-web-store/users/jmihjpkeaeknejefhonkbgldenaplegj.svg?style=flat&logo=google-chrome]]
-[[https://chrome.google.com/webstore/detail/simple-tab-switcher/jmihjpkeaeknejefhonkbgldenaplegj][https://img.shields.io/chrome-web-store/v/jmihjpkeaeknejefhonkbgldenaplegj.svg?style=flat&logo=google-chrome&color=green]]
-[[https://chrome.google.com/webstore/detail/simple-tab-switcher/jmihjpkeaeknejefhonkbgldenaplegj][https://img.shields.io/chrome-web-store/stars/jmihjpkeaeknejefhonkbgldenaplegj.svg?style=flat&color=green]]
-
-[[./resources/p_icon.png]]
+[[https://chrome.google.com/webstore/detail/make-google-chat-like-slack/oilfeenjkfedhlpijdhgbhdkdkjdmdnc][https://img.shields.io/chrome-web-store/users/oilfeenjkfedhlpijdhgbhdkdkjdmdnc.svg?style=flat&logo=google-chrome]]
+[[https://chrome.google.com/webstore/detail/make-google-chat-like-slack/oilfeenjkfedhlpijdhgbhdkdkjdmdnc][https://img.shields.io/chrome-web-store/v/oilfeenjkfedhlpijdhgbhdkdkjdmdnc.svg?style=flat&logo=google-chrome&color=green]]
+[[https://chrome.google.com/webstore/detail/make-google-chat-like-slack/oilfeenjkfedhlpijdhgbhdkdkjdmdnc][https://img.shields.io/chrome-web-store/stars/oilfeenjkfedhlpijdhgbhdkdkjdmdnc.svg?style=flat&color=green]]
 
 ** Intro
 An chrome extension to extend the Google Chat to have the basic functionality that Slack has.
 
-## Functions
+** Functionalities
 
 | Functionality | Description |
 | ----------- | ----------- |
@@ -28,5 +26,5 @@ An chrome extension to extend the Google Chat to have the basic functionality th
 -
 
 ** Usage
-Add to your browser from https://chrome.google.com/webstore/detail/slackify-gchat/jmihjpkeaeknejefhonkbgldenaplegj/related
+Add to your browser from https://chrome.google.com/webstore/detail/make-google-chat-like-slack/oilfeenjkfedhlpijdhgbhdkdkjdmdnc/related
 
