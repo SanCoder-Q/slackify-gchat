@@ -10,7 +10,8 @@
     "outDir": "./dist/compile/",
     "strict": true,
     "baseUrl": "./",
-    "lib": ["es6", "dom"]
+    "lib": ["es6", "dom"],
+    "jsx": "react"
   },
   "include": ["./src/**/*"]
 }

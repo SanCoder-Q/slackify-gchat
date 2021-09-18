@@ -5,18 +5,30 @@
   "email": "sancoder.q@gmail.com",
   "private": true,
   "devDependencies": {
-    "@types/chrome": "^0.0.80",
-    "archiver": "^3.0.0",
+    "@types/chrome": "^0.0.135",
+    "@types/react": "^17.0.5",
+    "@types/react-dom": "^17.0.4",
+    "@types/styled-components": "^5.1.9",
+    "archiver": "^5.3.0",
     "awesome-typescript-loader": "^5.2.1",
     "chrome-webstore-manager": "^0.4.2",
-    "clean-webpack-plugin": "^1.0.1",
-    "copy-webpack-plugin": "^4.6.0",
-    "typescript": "^3.3.3",
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
+    "copy-webpack-plugin": "^8.1.1",
+    "html-webpack-plugin": "^5.3.1",
+    "typescript": "^4.2.4",
     "uglifyjs-webpack-plugin": "^2.1.1",
-    "webpack": "^4.29.4",
-    "webpack-cli": "^3.2.3"
+    "webpack": "^5.36.0",
+    "webpack-cli": "^4.7.0",
+    "webpack-dev-server": "^3.11.2"
   },
   "scripts": {
-    "build": "webpack --config webpack.config.js && node ./ci/build.js"
+    "build": "webpack --config webpack.config.js && node ./ci/build.js",
+    "example": "webpack serve --mode development --open --progress --config webpack.example.js"
+  },
+  "dependencies": {
+    "most": "^1.9.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.0"
   }
 }

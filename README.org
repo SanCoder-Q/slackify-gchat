@@ -27,4 +27,3 @@ An chrome extension to extend the Google Chat to have the basic functionality th
 
 ** Usage
 Add to your browser from https://chrome.google.com/webstore/detail/make-google-chat-like-slack/oilfeenjkfedhlpijdhgbhdkdkjdmdnc/related
-
